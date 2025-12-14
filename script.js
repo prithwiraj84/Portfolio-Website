@@ -3,7 +3,7 @@ const themeBtn = document.getElementById('theme-btn');
 const html = document.documentElement;
 
 // Check for saved theme preference or default to light mode
-const currentTheme = localStorage.getItem('theme') || 'light';
+const currentTheme = localStorage.getItem('theme') || 'dark';
 html.setAttribute('data-theme', currentTheme);
 updateThemeIcon(currentTheme);
 
@@ -433,4 +433,5 @@ style.textContent = `
     }
 `;
 document.head.appendChild(style);
+
 
