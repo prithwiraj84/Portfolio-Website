@@ -2,7 +2,7 @@
 
 A beautiful, responsive, and fully functional personal portfolio website built with HTML, CSS, and JavaScript. Features dark/light mode, smooth animations, and a working contact form.
 
-![<img width="1894" height="910" alt="image" src="https://github.com/user-attachments/assets/d43e9953-6a2f-44a0-a9fe-640e5e3ab367" />](https://via.placeholder.com/800x400/6366f1/ffffff?text=Modern+Portfolio)
+![Portfolio Preview](<img width="1902" height="913" alt="image" src="https://github.com/user-attachments/assets/f67146c4-ae72-42b9-82b9-15d41cd260e8" />)
 
 ## ✨ Features
 
